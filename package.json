@@ -8,7 +8,7 @@
   "repository": "git://github.com/senchalabs/connect",
   "dependencies": {
     "qs": ">= 0.4.0",
-    "mime": ">= 0.0.1",
+    "mime": "1.x.x",
     "formidable": "1.0.x"
   },
   "devDependencies": {
